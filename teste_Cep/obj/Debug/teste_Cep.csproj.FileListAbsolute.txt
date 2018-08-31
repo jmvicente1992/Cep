@@ -1,0 +1,16 @@
+C:\TESTES C#\teste_Cep\teste_Cep\bin\Debug\teste_Cep.exe.config
+C:\TESTES C#\teste_Cep\teste_Cep\bin\Debug\teste_Cep.exe
+C:\TESTES C#\teste_Cep\teste_Cep\bin\Debug\teste_Cep.pdb
+C:\TESTES C#\teste_Cep\teste_Cep\bin\Debug\Correios.Net.dll
+C:\TESTES C#\teste_Cep\teste_Cep\bin\Debug\Correios.Net.pdb
+C:\TESTES C#\teste_Cep\teste_Cep\obj\Debug\teste_Cep.csprojAssemblyReference.cache
+C:\TESTES C#\teste_Cep\teste_Cep\obj\Debug\teste_Cep.Form1.resources
+C:\TESTES C#\teste_Cep\teste_Cep\obj\Debug\teste_Cep.Properties.Resources.resources
+C:\TESTES C#\teste_Cep\teste_Cep\obj\Debug\teste_Cep.csproj.GenerateResource.cache
+C:\TESTES C#\teste_Cep\teste_Cep\obj\Debug\teste_Cep.csproj.CoreCompileInputs.cache
+C:\TESTES C#\teste_Cep\teste_Cep\obj\Debug\teste_Cep.csproj.CopyComplete
+C:\TESTES C#\teste_Cep\teste_Cep\obj\Debug\teste_Cep.exe
+C:\TESTES C#\teste_Cep\teste_Cep\obj\Debug\teste_Cep.pdb
+C:\TESTES C#\teste_Cep\teste_Cep\bin\Debug\MySql.Data.dll
+C:\TESTES C#\teste_Cep\teste_Cep\bin\Debug\MySql.Data.xml
+C:\TESTES C#\teste_Cep\teste_Cep\obj\Debug\teste_Cep.view.resources
